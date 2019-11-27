@@ -8,3 +8,7 @@ section{
     margin: 0 auto 100px;
     width:900px;
 }
+
+#color-2{
+    background-color:red;
+}
