@@ -4,11 +4,15 @@ body {
     font-family:'Times New Roman', Times, serif
 }
 
-section{
+section {
     margin: 0 auto 100px;
     width:900px;
 }
 
-#color-2{
+#color-2 {
     background-color:red;
+}
+
+p {
+    color: black;
 }
