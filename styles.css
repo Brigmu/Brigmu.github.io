@@ -1,0 +1,10 @@
+body {
+    background-color: blue;
+    color: white;
+    font-family:'Times New Roman', Times, serif
+}
+
+section{
+    margin: 0 auto 100px;
+    width:900px;
+}
